@@ -1,0 +1,4 @@
+train: citrus_data_updated/images/train
+val: citrus_data_updated/images/validation
+nc: 1
+names: ["citrus"]
